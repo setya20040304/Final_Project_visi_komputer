@@ -1,6 +1,6 @@
 # Object Recognition using SIFT
 
-Project ini adalah implementasi **Computer Vision** untuk mendeteksi keberadaan objek tertentu dalam sebuah scene yang kompleks menggunakan algoritma **Scale-Invariant Feature Transform (SIFT)**.
+Final Project ini adalah implementasi **Visi Komputer** untuk mendeteksi keberadaan objek tertentu dalam sebuah scene yang kompleks menggunakan algoritma **Scale-Invariant Feature Transform (SIFT)**.
 
 ## Deskripsi
 Program ini bekerja dengan cara:
